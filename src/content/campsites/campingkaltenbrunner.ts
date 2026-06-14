@@ -42,17 +42,17 @@ const campingkaltenbrunner: CampsiteConfig = {
   pillars: [
     {
       title: "Formel 1 hautnah",
-      text: "Zum Grand Prix sind es von deinem Stellplatz nur rund 15 Gehminuten an die Strecke — ohne Shuttle-Stress, einfach zu Fuß oder mit dem Rad mitten ins Renngeschehen.",
+      text: "Nur rund 15 Gehminuten von deinem Stellplatz zur Strecke — zu Fuß oder mit dem Rad, ganz ohne Shuttle-Stress.",
       image: { src: `${IMG}/event-formel1.webp`, alt: "Formel-1-Bolide auf der Rennstrecke" },
     },
     {
       title: "MotoGP-Wochenende",
-      text: "Auch zum Motorrad-Grand-Prix wird die Wiese zum Vorgarten der Strecke: morgens aus dem Zelt, wenige Minuten später am Ring — kein Warm-up und kein Qualifying verpasst.",
+      text: "Morgens aus dem Zelt, wenige Minuten später am Ring — kein Warm-up und kein Qualifying verpasst.",
       image: { src: `${IMG}/event-motogp.webp`, alt: "MotoGP-Rennmaschine in Schräglage" },
     },
     {
       title: "AirPower am Himmel",
-      text: "Wenn die Kunstflugstaffeln zur AirPower über den benachbarten Fliegerhorst Hinterstoisser ziehen, hast du die Flugshow quasi direkt über deinem Vorzelt.",
+      text: "Die Kunstflugstaffeln der AirPower ziehen quasi direkt über deinen Stellplatz — Flugshow aus der ersten Reihe.",
       image: { src: `${IMG}/event-airpower.webp`, alt: "Kunstflug-Formation am Himmel — AirPower-Atmosphäre" },
     },
   ],
